@@ -35,6 +35,12 @@ License
 
 Release History
 --------
+### 2025/10/13 - AmaterasModeler 2.3.0
+
+- Support TIME/TIMESTAMP WITH TIME ZONE types in ERD
+- Update some dialects in ERD
+- Minor improvements in NewDatabaseDiagramWizard and TableEditDialong in ERD
+
 ### 2024/06/29 - AmaterasModeler 2.2.0
 
 - Support the latest Eclipse and GEF
