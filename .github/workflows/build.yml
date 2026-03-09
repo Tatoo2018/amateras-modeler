@@ -7,7 +7,7 @@ permissions:
 
   # Git Hub Pagesに公開する対象フォルダ
 env:
-  REPOSITORY_PATH: com.jhappy.jhappyloveany.updatesite/target/repository
+  REPOSITORY_PATH: net.java.amateras.updatesite/target/repository
 
 jobs:
   build:
