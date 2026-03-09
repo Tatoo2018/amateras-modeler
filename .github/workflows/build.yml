@@ -45,8 +45,7 @@ jobs:
        branch: gh-pages
        # ブランチによって保存先を自動変更する_
        target-folder: updatesite/${{ github.ref_name }}
-       # 他のフォルダ（index.htmlなど）を消さないように設定
-       clean: true
-          
+       # プッシュ先は一度全て削除
+       clean: true 
        # 履歴は残さない
        single-commit: true
